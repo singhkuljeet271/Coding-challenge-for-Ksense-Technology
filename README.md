@@ -1,1 +1,2 @@
-"# project" 
+In this project I have used fetch to get data from the given API.And then render it into DOM. However, I also have used Material UI to get the data into Tables. Then I had created a child component to display the all the posts of a specific users. I have used React Modal to display posts for each user.
+So , in the services.js I had made a fetch request and in app.js I had render data into DOM.And in posts.js I had made a child component to display the posts for each users.
